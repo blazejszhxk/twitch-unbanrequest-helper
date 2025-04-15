@@ -17,7 +17,7 @@ Twitch Unban-Request Helper to wtyczka, która pokazuje top 5 streamerów u dane
 ## Instalacja
 
 1. **Pobierz kod źródłowy**:
-   - Przejdź do [Releases](https://github.com/blazejszhxk/twitch-unbanrequest-helper/releases/tag/v1.0.0) i pobierz najnowszą wersję jako plik ZIP.
+   - Przejdź do [Releases](https://github.com/blazejszhxk/twitch-unbanrequest-helper/releases/tag/v1.0.1) i pobierz najnowszą wersję jako plik ZIP.
    - Rozpakuj pobrany plik ZIP na swoim komputerze.
 
 2. **Otwórz przeglądarkę**:
