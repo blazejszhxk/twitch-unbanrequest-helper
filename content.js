@@ -184,7 +184,7 @@
       item.style.alignItems = 'center';
       item.style.height = '22px';
       
-      const totalMinutes = streamer.count;
+      const totalMinutes = streamer.count * 5;
       const days = Math.floor(totalMinutes / (60 * 24));
       const hours = Math.floor((totalMinutes % (60 * 24)) / 60);
       const minutes = totalMinutes % 60;
