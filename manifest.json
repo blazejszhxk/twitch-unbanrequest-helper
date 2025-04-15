@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Twitch Unban-Request Helper",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Wtyczka, która pokazuje top 5 streamerów u danej osoby pod względem WatchTime.",
   "icons": {
     "48": "assets/icon48.png",
