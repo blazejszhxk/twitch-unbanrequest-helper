@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Twitch Unban-Request Helper",
+  "version": "1.0",
+  "description": "Wtyczka pokazuje top 5 streamerów pod względem WatchTime na unban-requestach.",
+  "icons": {
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.twitch.tv/popout/moderator/*/unban-requests"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [
+    "webRequest"
+  ],
+  "host_permissions": [
+    "https://xayo.pl/api/mostWatched/*",
+    "https://api.allorigins.win/*"
+  ]
+}
