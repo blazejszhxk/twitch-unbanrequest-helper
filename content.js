@@ -246,7 +246,7 @@
     authorInfo.style.marginBottom = '3px';
     authorInfo.style.marginTop = '10px';
     authorInfo.style.lineHeight = '1';
-    authorInfo.textContent = 'made by @szhxk2 on X';
+    authorInfo.textContent = 'made by blazej || @szhxk2 on X';
     
     widget.style.paddingBottom = '6px';
     
